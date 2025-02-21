@@ -1,5 +1,13 @@
 # Subgraph Federated Learning for Local Generalizatioin (FedLoG)
 
+<p align="center">   
+    <a href="https://pytorch.org/" alt="PyTorch">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
+    <a href="https://iclr.cc" alt="Conference">
+        <img src="https://img.shields.io/badge/ICLR'25-brightgreen" /></a>
+<!--     <img src="https://img.shields.io/pypi/l/torch-rechub"> -->
+</p>
+
 The official source code for [**Subgraph Federated Learning for Local Generalization**](https://openreview.net/forum?id=cH65nS5sOz) at ICLR 2025 (Oral).
 
 ## Abstract 
