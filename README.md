@@ -41,13 +41,11 @@ python main.py --dataset cora --n_silos 3 --unseen_setting closeset
 ### Citation  
 
 ```BibTex
-@inproceedings{
-kim2025subgraph,
-title={Subgraph Federated Learning for Local Generalization},
-author={Sungwon Kim and Yoonho Lee and Yunhak Oh and Namkyeong Lee and Sukwon Yun and Junseok Lee and Sein Kim and Carl Yang and Chanyoung Park},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=cH65nS5sOz}
+@article{kim2025subgraph,
+  title={Subgraph Federated Learning for Local Generalization},
+  author={Kim, Sungwon and Lee, Yoonho and Oh, Yunhak and Lee, Namkyeong and Yun, Sukwon and Lee, Junseok and Kim, Sein and Yang, Carl and Park, Chanyoung},
+  journal={arXiv preprint arXiv:2503.03995},
+  year={2025}
 }
 ```
 
