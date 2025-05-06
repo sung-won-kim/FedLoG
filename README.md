@@ -21,7 +21,7 @@ Federated Learning (FL) on graphs enables collaborative model training to enhanc
 - torch-geometric=2.4.0
 
 ## Datasets
-You can download the datasets using the following anonymous link:  
+You can download the datasets using the following link:  
 [Download Dataset](https://drive.google.com/file/d/12u40AJMXeeplxfSeOuhU29rv8YtBzWMl/view?usp=share_link)
 
 After extracting `data.zip`, put the `data` folder in the same directory as the `main.py` file.
